@@ -44,9 +44,6 @@ body {
   top: 100px;
 }
 
-.toggle:focus {
-  outline: none;
-}
 
 .clock-container {
   display: flex;
